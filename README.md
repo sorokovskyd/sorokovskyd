@@ -1,16 +1,134 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Дмитрий
 
-<!--
-**sorokovskyd/sorokovskyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — **Junior Python Backend Developer**.
 
-Here are some ideas to get you started:
+В 2025 году окончил бакалавриат Южного федерального университета по направлению **«Менеджмент в инновационном предпринимательстве»**, после чего осознанно решил сменить профессиональное направление и перейти в backend-разработку.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Сейчас продолжаю развиваться как Python-разработчик, изучаю современные инструменты backend-разработки и работаю над собственным pet-проектом **«Календарик»** — системой управления объектами размещения (PMS) для мини-гостиниц и гостевых домов.
+
+---
+
+## 💻 Стек технологий
+
+### Backend
+- Python
+- FastAPI
+- Django
+- Django REST Framework
+- SQLAlchemy
+- Alembic
+- Pydantic
+
+### Базы данных
+- PostgreSQL
+- SQLite
+- Django ORM
+
+### DevOps
+- Docker
+- Docker Compose
+- Gunicorn
+- Nginx
+- GitHub Actions (CI/CD)
+
+### Инструменты
+- Git
+- GitHub
+- Bash
+- Postman
+- VS Code
+
+### Тестирование
+- pytest
+- unittest
+
+---
+
+## 🚀 Основные проекты
+
+### 📅 Календарик *(pet-проект, в разработке)*
+Система управления объектами размещения (PMS) для мини-гостиниц и гостевых домов.
+
+**Стек:** FastAPI, SQLAlchemy, Alembic, PostgreSQL
+
+**Что реализовано:**
+- проектирование структуры БД;
+- REST API для основных сущностей;
+- проверка пересечения дат бронирования;
+- расчёт стоимости проживания с учётом скидок и дополнительных услуг;
+- фильтрация и валидация данных.
+
+🔗 https://github.com/sorokovskyd/calendarik
+
+---
+
+### 🍽 Foodgram
+
+Сервис публикации рецептов с REST API, Docker и CI/CD.
+
+**Стек:** Django, DRF, PostgreSQL, Docker, Nginx, GitHub Actions
+
+🔗 https://github.com/sorokovskyd/foodgram
+
+---
+
+### ⭐ YaMDb
+
+Командная разработка REST API для сервиса отзывов.
+
+**Стек:** Django REST Framework, JWT, SQLite
+
+---
+
+### 📝 API Yatube
+
+REST API для социальной сети.
+
+**Стек:** Django REST Framework, JWT
+
+🔗 https://github.com/sorokovskyd/api-final-yatube
+
+---
+
+### 🌐 Blogicum
+
+Социальная сеть на Django.
+
+**Стек:** Django, Bootstrap
+
+🔗 https://github.com/sorokovskyd/blogicum
+
+---
+
+## 📚 Сейчас изучаю
+
+- углублённый FastAPI;
+- асинхронное программирование (`asyncio`);
+- архитектуру backend-приложений;
+- проектирование REST API;
+- PostgreSQL и SQL.
+
+---
+
+## 🎯 Немного обо мне
+
+Во время обучения в ВУЗе понял, что мне ближе задачи, требующие логического мышления, системного подхода и поиска технических решений. Выбрал backend-разработку не только потому, что мне близок такой тип задач, но и потому, что считаю IT одной из сфер, где ценятся знания, способность постоянно учиться и профессионально развиваться.
+Бизнес-образование помогает смотреть на проекты не только с технической стороны, но и понимать продуктовые задачи и потребности пользователей.
+
+В процессе разработки регулярно обращаюсь к официальной документации и использую ИИ-инструменты для изучения новых технологий, разбора технических вопросов и поиска оптимальных решений.
+
+---
+
+## 📫 Контакты
+- ВКонтакте: **https://vk.ru/sorokovskyd**
+- Telegram: **@sorokovskyd**
+- Email: **sorokovskij67@mail.ru**
+- GitHub: **https://github.com/sorokovskyd**
+
+---
+
+## 📌 Статус
+
+🟢 **Open to Work**
+
+Ищу работу или стажировку на позицию **Junior Python Backend Developer**.
